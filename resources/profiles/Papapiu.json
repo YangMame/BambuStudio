@@ -1,0 +1,138 @@
+{
+    "name": "Papapiu",
+    "version": "01.0.00.00",
+    "force_update": "0",
+    "description": "Papapiu configurations",
+    "machine_model_list": [
+        {
+            "name": "Papapiu N1S",
+            "sub_path": "machine/Papapiu N1S.json"
+        }
+    ],
+    "process_list": [
+        {
+            "name": "fdm_process_common",
+            "sub_path": "process/fdm_process_common.json"
+        },
+        {
+            "name": "fdm_process_papapiu_common",
+            "sub_path": "process/fdm_process_papapiu_common.json"
+        },
+        {
+            "name": "0.08mm Extra Fine @Papapiu",
+            "sub_path": "process/0.08mm Extra Fine @Papapiu.json"
+        },
+        {
+            "name": "0.12mm Fine @Papapiu",
+            "sub_path": "process/0.12mm Fine @Papapiu.json"
+        },
+        {
+            "name": "0.15mm Optimal @Papapiu",
+            "sub_path": "process/0.15mm Optimal @Papapiu.json"
+        },
+        {
+            "name": "0.20mm Standard @Papapiu",
+            "sub_path": "process/0.20mm Standard @Papapiu.json"
+        },
+        {
+            "name": "0.24mm Draft @Papapiu",
+            "sub_path": "process/0.24mm Draft @Papapiu.json"
+        },
+        {
+            "name": "0.28mm Extra Draft @Papapiu",
+            "sub_path": "process/0.28mm Extra Draft @Papapiu.json"
+        }
+    ],
+    "filament_list": [
+        {
+            "name": "fdm_filament_common",
+            "sub_path": "filament/fdm_filament_common.json"
+        },
+        {
+            "name": "fdm_filament_pla",
+            "sub_path": "filament/fdm_filament_pla.json"
+        },
+        {
+            "name": "fdm_filament_tpu",
+            "sub_path": "filament/fdm_filament_tpu.json"
+        },
+        {
+            "name": "fdm_filament_pet",
+            "sub_path": "filament/fdm_filament_pet.json"
+        },
+        {
+            "name": "fdm_filament_abs",
+            "sub_path": "filament/fdm_filament_abs.json"
+        },
+        {
+            "name": "fdm_filament_pc",
+            "sub_path": "filament/fdm_filament_pc.json"
+        },
+        {
+            "name": "fdm_filament_asa",
+            "sub_path": "filament/fdm_filament_asa.json"
+        },
+        {
+            "name": "fdm_filament_pva",
+            "sub_path": "filament/fdm_filament_pva.json"
+        },
+        {
+            "name": "fdm_filament_pa",
+            "sub_path": "filament/fdm_filament_pa.json"
+        },
+        {
+            "name": "Papapiu Generic PLA",
+            "sub_path": "filament/Papapiu Generic PLA.json"
+        },
+        {
+            "name": "Papapiu Generic PLA-CF",
+            "sub_path": "filament/Papapiu Generic PLA-CF.json"
+        },
+        {
+            "name": "Papapiu Generic PETG",
+            "sub_path": "filament/Papapiu Generic PETG.json"
+        },
+        {
+            "name": "Papapiu Generic ABS",
+            "sub_path": "filament/Papapiu Generic ABS.json"
+        },
+        {
+            "name": "Papapiu Generic TPU",
+            "sub_path": "filament/Papapiu Generic TPU.json"
+        },
+        {
+            "name": "Papapiu Generic ASA",
+            "sub_path": "filament/Papapiu Generic ASA.json"
+        },
+        {
+            "name": "Papapiu Generic PC",
+            "sub_path": "filament/Papapiu Generic PC.json"
+        },
+        {
+            "name": "Papapiu Generic PVA",
+            "sub_path": "filament/Papapiu Generic PVA.json"
+        },
+        {
+            "name": "Papapiu Generic PA",
+            "sub_path": "filament/Papapiu Generic PA.json"
+        },
+        {
+            "name": "Papapiu Generic PA-CF",
+            "sub_path": "filament/Papapiu Generic PA-CF.json"
+        }
+    ],
+    "machine_list": [
+        {
+            "name": "fdm_machine_common",
+            "sub_path": "machine/fdm_machine_common.json"
+        },
+        {
+            "name": "fdm_klipper_common",
+            "sub_path": "machine/fdm_klipper_common.json"
+        },
+        {
+            "name": "Papapiu N1S 0.4 nozzle",
+            "sub_path": "machine/Papapiu N1S 0.4 nozzle.json"
+        }
+    ]
+}

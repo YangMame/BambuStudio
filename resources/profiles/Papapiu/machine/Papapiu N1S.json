@@ -1,0 +1,12 @@
+{
+    "type": "machine_model",
+    "name": "Papapiu N1S",
+    "model_id": "Papapiu_N1S",
+    "nozzle_diameter": "0.4",
+    "machine_tech": "FFF",
+    "family": "Papapiu",
+    "bed_model": "",
+    "bed_texture": "voron_logo.png",
+    "hotend_model": "hotend.stl",
+    "default_materials": "Papapiu Generic ABS;Papapiu Generic PLA;Papapiu Generic PLA-CF;Papapiu Generic PETG;Papapiu Generic TPU;Papapiu Generic ASA;Papapiu Generic PC;Papapiu Generic PVA;Papapiu Generic PA;Papapiu Generic PA-CF"
+}
